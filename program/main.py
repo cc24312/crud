@@ -1,5 +1,4 @@
 import pyodbc
-import os
 def apresenteSe ():
     print('+-------------------------------------------------------------+')
     print('|                                                             |')
